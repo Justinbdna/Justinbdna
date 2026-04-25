@@ -1,8 +1,8 @@
 <div align="center">
 
-# Bienvenue dans le Quartier de Justin
+# 💎 Bienvenue dans le Quartier de Justin 💎
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTV1MXN6anA2ZGhwbmM4dWtmaXM1b2g5M2pwZHdiaTFwMmNoeHV5dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RjpwS3HEFqgdALfARj/source.gif" width="60" alt="💎" />
+<img src="plumbob.gif" width="60" alt="💎" />
 
 *"Sul Sul !"* (Bonjour !)
 
@@ -10,7 +10,7 @@
 
 ---
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTV1MXN6anA2ZGhwbmM4dWtmaXM1b2g5M2pwZHdiaTFwMmNoeHV5dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RjpwS3HEFqgdALfARj/source.gif" width="30" style="vertical-align:middle" /> Panneau des Compétences du Sim
+### 🟢 Panneau des Compétences du Sim
 
 **💻 Logique (JavaScript / WebGL)**
 🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️
@@ -23,29 +23,23 @@
 
 ---
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTV1MXN6anA2ZGhwbmM4dWtmaXM1b2g5M2pwZHdiaTFwMmNoeHV5dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RjpwS3HEFqgdALfARj/source.gif" width="40" alt="💎" />
-  <h3>Panneau des Besoins & Statistiques</h3>
-</div>
+### 🔥 Panneau d'Activité
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Justinbdna&theme=dark&bg_color=002244&border_color=43b52a&title_color=43b52a&icon_color=43b52a&text_color=ffffff&show_icons=true&hide_border=false" alt="Statistiques de Justin" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justinbdna&theme=dark&background=002244&border=43b52a&stroke=43b52a&ring=43b52a&fire=43b52a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=43b52a&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justinbdna&theme=dark&background=002244&border=43b52a&stroke=43b52a&ring=43b52a&fire=43b52a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=43b52a&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="Activité de Justin" />
 </div>
 
 ---
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTV1MXN6anA2ZGhwbmM4dWtmaXM1b2g5M2pwZHdiaTFwMmNoeHV5dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RjpwS3HEFqgdALfARj/source.gif" width="30" style="vertical-align:middle" /> Personnalité et Aspiration
+### 🧬 Personnalité et Aspiration
 
 * **Aspiration Principale :** 🧠 **Connaissance** - Atteindre le sommet de la carrière "Lead Tech", maîtriser la matrice WebGL et optimiser des expériences 3D massives.
-* **Trait de caractère :** 🛡️ **Guerrier Résilient** - N'abandonne jamais face à un bug. Face à un conflit de merge, oscille entre détachement froid et analyse hyper-logique pour tout résoudre.
-* **Hobbies :** Modding (PSP 3000 Blanche), Photographie (Ricoh FF-700), et collection d'objets Disney en 3D.
+* **Trait de caractère :** 🛡️ **Guerrier Résilient** - N'abandonne jamais face à un bug. Face à un conflit, oscille entre détachement froid et analyse hyper-logique pour tout résoudre.
+* **Hobbies :** Modding de consoles, Photographie argentique, et collection d'objets Disney en 3D.
 * **Dernier souhait exaucé :** A optimisé 12 modèles 3D complexes (-98% de poids) sans faire crasher le jeu. *Ate.*
 
 <br>
 
 <div align="center">
-  <i>"Dag Dag !"</i><br>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTV1MXN6anA2ZGhwbmM4dWtmaXM1b2g5M2pwZHdiaTFwMmNoeHV5dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RjpwS3HEFqgdALfARj/source.gif" width="30" alt="💎" />
+  <i>"Dag Dag !"</i> 👋
 </div>
