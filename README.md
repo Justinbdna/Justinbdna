@@ -24,7 +24,3 @@
 * **Dernier souhait exaucé :** A optimisé 12 modèles 3D complexes (-98% de poids) sans faire crasher le jeu. *Ate.*
 
 <br>
-
-<div align="center">
-  <i>"Dag Dag !"</i> 👋
-</div>
