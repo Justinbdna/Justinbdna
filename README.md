@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Justinbdna/Justinbdna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💎 Bienvenue dans le Quartier de Justin 💎
 
-Here are some ideas to get you started:
+*"Sul Sul !"* (Bonjour !)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🟢 Panneau des Compétences du Sim
+
+**💻 Logique (JavaScript / WebGL)**
+🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️
+
+**🎨 Créativité (Three.js / UI / CSS)**
+🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️
+
+**⚙️ Mécanique (Architecture / GitHub / Vercel)**
+🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️
+
+---
+
+### 📊 Panneau des Besoins & Statistiques
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Justinbdna&theme=dark&bg_color=002244&border_color=43b52a&title_color=43b52a&icon_color=43b52a&text_color=ffffff&show_icons=true&hide_border=false" alt="Statistiques de Justin" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justinbdna&theme=dark&background=002244&border=43b52a&stroke=43b52a&ring=43b52a&fire=43b52a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=43b52a&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🧬 Personnalité et Aspiration
+
+* **Aspiration Principale :** 🧠 **Connaissance** - Atteindre le sommet de la carrière "Lead Tech", maîtriser la matrice WebGL et optimiser des expériences 3D massives.
+* **Trait de caractère :** 🛡️ **Guerrier Résilient** - N'abandonne jamais face à un bug. Face à un conflit de merge, oscille entre détachement froid et analyse hyper-logique pour tout résoudre.
+* **Hobbies :** Modding (PSP 3000 Blanche), Photographie (Ricoh FF-700), et collection d'objets Disney en 3D.
+* **Dernier souhait exaucé :** A optimisé 12 modèles 3D complexes (-98% de poids) sans faire crasher le jeu. *Ate.*
+
+<br>
+
+<div align="center">
+  <i>"Dag Dag !"</i> 👋
+</div>
