@@ -2,28 +2,13 @@
 
 # 💎 Bienvenue dans le Quartier de Justin 💎
 
-<img src="plumbob.gif" width="60" alt="💎" />
+<img src="plumbob.gif" width="100" alt="💎" />
 
 *"Sul Sul !"* (Bonjour !)
 
 </div>
 
----
-
-### 🟢 Panneau des Compétences du Sim
-
-**💻 Logique (JavaScript / WebGL)**
-🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️
-
-**🎨 Créativité (Three.js / UI / CSS)**
-🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️
-
-**⚙️ Mécanique (Architecture / GitHub / Vercel)**
-🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️
-
----
-
-### 🔥 Panneau d'Activité
+ 🔥 Panneau d'Activité
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justinbdna&theme=dark&background=002244&border=43b52a&stroke=43b52a&ring=43b52a&fire=43b52a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=43b52a&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="Activité de Justin" />
