@@ -13,20 +13,26 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate 3D Contribution City
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit & Push changes
+      - name: Traduction FR et personnalisation des indicateurs
+        run: |
+          sed -i 's/>other</>Autres</g' profile-3d-contrib/*.svg
+          sed -i 's/>Commit</>Commits</g' profile-3d-contrib/*.svg
+          sed -i 's/>Issue</>Tickets</g' profile-3d-contrib/*.svg
+          sed -i 's/>PullReq</>Pull Requests</g' profile-3d-contrib/*.svg
+          sed -i 's/>Review</>Revues</g' profile-3d-contrib/*.svg
+          sed -i 's/>Repo</>Dépôts</g' profile-3d-contrib/*.svg
+          
+          # Remplacement du 0 étoile par les 12 dépôts publics
+          sed -i 's/>0</>12 dépôts</g' profile-3d-contrib/*.svg
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A profile-3d-contrib/
-          git diff --staged --quiet || git commit -m "feat: update isometric 3d contribution city"
+          git add -A .
+          git commit -m "chore: actualisation de la skyline 3D en français" || exit 0
           git push
-
