@@ -7,7 +7,7 @@
 
 ---
 
-### 🏙️ Vue Isométrique des Contributions
+### 🏙️ Vue 3D des Contributions
 
 <div align="center">
   <img src="profile-3d-contrib/profile-gitblock.svg" alt="Skyline 3D Gitblock des Contributions" width="100%">
