@@ -10,7 +10,7 @@
 ### 🏙️ Vue Isométrique des Contributions
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="Skyline 3D des Contributions" width="100%">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="Skyline 3D Gitblock des Contributions" width="100%">
 </div>
 
 ---
